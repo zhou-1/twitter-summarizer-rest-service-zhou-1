@@ -57,7 +57,7 @@ On your shell/terminal, run this program by typing below command:
 ```
 python flaskWeb.py
 ```
-Then you can go to link: http://127.0.0.1:5000/ to see the main page.    
+Then you can go to link: http://127.0.0.1:2000/ to see the main page. (>1000 port: no need permission from root)       
 The index page will be looked like below:    
 ![index](imgs/Main.PNG)     
 
