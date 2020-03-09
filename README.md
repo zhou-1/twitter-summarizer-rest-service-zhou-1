@@ -1,5 +1,5 @@
 # Goal    
-Make your HW4 "Convert Tweet contents to a video" a REST service running on AWS      
+Make my ["Convert Tweet contents to a video" program](https://github.com/zhou-1/video-zhou-1) a REST service running on AWS       
 https://zhou-1.github.io/twitter-summarizer-rest-service-zhou-1/  
 
 ## Details   
